@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Dhananjay
-- 👀 I’m interested in ...
+-                         👋 Hi, I’m Dhananjay
+
 - 🌱 I’m currently learning ...JS
 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 dhananjaytyagii/dhananjaytyagii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
